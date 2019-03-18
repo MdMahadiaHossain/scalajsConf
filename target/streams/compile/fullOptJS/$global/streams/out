@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mFull optimizing /mnt/CCA2B0E3A2B0D2E6/Garage/play-scalajs/FirstApp/target/scala-2.12/firstapp-opt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 80102 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 152563 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasic Linking: 238763 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Batch mode: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Incremental part: 80755 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizing 824 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: Optimizer part: 248687 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mInc. optimizer: 335885 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 25069 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 4286 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 30802 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 31 -- invalidated: 38[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 98[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter (create Closure trees): 107128 us[0m
+[0m[[0m[0minfo[0m] [0m[0mClosure: 0 error(s), 0 warning(s)[0m
+[0m[[0m[0mdebug[0m] [0m[0mClosure: Compiler pass: 889882 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mClosure: Write result: 44811 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mGlobal IR cache stats: reused: 6 -- invalidated: 0 -- trees read: 253[0m
